@@ -1,4 +1,4 @@
-# CPP-HTTPSever
+# CPP-HTTPServer
 C++使用TCP/IP协议epoll实现的基本的HTTP服务器\
 此项目使用epoll方法实现IO多路复用，HTTPServer解析器实现了对GET指令的解析与响应。\
 正式文件在Myserver文件夹内,内部有一个html项目示例。\
